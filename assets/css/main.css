@@ -71,6 +71,9 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+/* Main Pic */
+
+
 
 /* Basic */
 
@@ -1660,7 +1663,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
-			
+			height: auto;
 		}
 
 		.image.featured {
@@ -1683,6 +1686,7 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		
 
 /* Button */
 
